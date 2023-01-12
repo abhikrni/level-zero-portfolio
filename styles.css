@@ -159,6 +159,10 @@ hr {
     width: 50px;
 }
 
+.fa:hover {
+    opacity: 0.9;
+}
+
 .fa-linkedin {
     background: #007bb5;
     color: white;
