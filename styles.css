@@ -144,9 +144,33 @@ hr {
 
 .footer .footer-header {
     font-weight: bold;
-    font-size: large;
+    font-size: 24px;
 }
 
 .footer ul {
     padding-inline-start: 0px;
+}
+
+.fa {
+    padding: 10px;
+    text-align: center;
+    margin: 5px 2px;
+    font-size: 30px;
+    width: 50px;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    font-size: 40px;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-github {
+    background-color: #777777;
+    color: white;
 }
